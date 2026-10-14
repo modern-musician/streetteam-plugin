@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "streetteam-hosted",
+  "version": "0.4.0",
+  "description": "Official StreetTeam plugin from Modern Musician",
+  "metadata": {
+    "description": "Securely connect Claude to the StreetTeam artists and communities each user is authorized to manage."
+  },
+  "owner": {
+    "name": "Modern Musician",
+    "email": "support@modernmusician.me"
+  },
+  "plugins": [
+    {
+      "name": "streetteam",
+      "source": "./plugins/streetteam",
+      "description": "Securely work with the StreetTeam artists and communities you are authorized to manage.",
+      "version": "0.4.0",
+      "author": {
+        "name": "Modern Musician",
+        "email": "support@modernmusician.me"
+      },
+      "category": "productivity",
+      "homepage": "https://streetteam.fm/docs/mcp"
+    }
+  ]
+}

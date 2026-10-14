@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"streetteam": {
+			"type": "http",
+			"url": "https://streetteam.fm/api/mcp"
+		}
+	}
+}

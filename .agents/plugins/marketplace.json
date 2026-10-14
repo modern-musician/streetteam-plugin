@@ -1,0 +1,20 @@
+{
+  "name": "streetteam-hosted",
+  "interface": {
+    "displayName": "StreetTeam"
+  },
+  "plugins": [
+    {
+      "name": "streetteam",
+      "source": {
+        "source": "local",
+        "path": "./plugins/streetteam"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

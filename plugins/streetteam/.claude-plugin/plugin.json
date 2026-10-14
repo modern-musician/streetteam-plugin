@@ -1,0 +1,19 @@
+{
+	"name": "streetteam",
+	"version": "0.4.0",
+	"description": "Securely work with the StreetTeam artists and communities you are authorized to manage.",
+	"author": {
+		"name": "Modern Musician",
+		"email": "support@modernmusician.me",
+		"url": "https://streetteam.fm/"
+	},
+	"homepage": "https://streetteam.fm/docs/mcp",
+	"license": "Proprietary",
+	"keywords": [
+		"streetteam",
+		"artist-crm",
+		"music",
+		"community",
+		"analytics"
+	]
+}

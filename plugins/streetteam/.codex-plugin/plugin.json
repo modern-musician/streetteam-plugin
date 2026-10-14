@@ -1,0 +1,34 @@
+{
+	"name": "streetteam",
+	"version": "0.4.0",
+	"description": "Securely work with the StreetTeam artists and communities you are authorized to manage.",
+	"author": {
+		"name": "Modern Musician",
+		"email": "support@modernmusician.me",
+		"url": "https://streetteam.fm/"
+	},
+	"homepage": "https://streetteam.fm/docs/mcp",
+	"license": "Proprietary",
+	"keywords": ["streetteam", "artist-crm", "music", "community", "analytics"],
+	"skills": "./skills/",
+	"interface": {
+		"displayName": "StreetTeam",
+		"shortDescription": "Your artists. Your next move.",
+		"longDescription": "Bring StreetTeam into Codex. Plan your week, reconnect with leads, review calls, and manage your artist community with the permissions you choose. One hosted connection keeps your tools current across assistants.",
+		"developerName": "Modern Musician",
+		"category": "Productivity",
+		"capabilities": ["Read", "Write"],
+		"websiteURL": "https://streetteam.fm/docs/mcp",
+		"privacyPolicyURL": "https://streetteam.fm/legal/privacy-policy",
+		"termsOfServiceURL": "https://streetteam.fm/legal/terms",
+		"defaultPrompt": [
+			"Plan my week and recommend my top three priorities",
+			"Review my overdue follow-ups and draft the next steps",
+			"Summarize my latest call and suggest action items"
+		],
+		"brandColor": "#6E50FE",
+		"composerIcon": "./assets/icon.png",
+		"logo": "./assets/icon.png"
+	},
+	"mcpServers": "./.mcp.json"
+}
