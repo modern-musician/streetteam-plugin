@@ -1,9 +1,9 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "files": {
-    "plugins/streetteam/.claude-plugin/marketplace.json": "09e4a819b7e63655d17196d7a2aa50ea2ccb4e1539e593fe20e93d274f9b458a",
-    "plugins/streetteam/.claude-plugin/plugin.json": "7565d9d7e846357bfb3bcc521c842224446c68fed61a59d4c242e86adb6e2ff4",
-    "plugins/streetteam/.codex-plugin/plugin.json": "4e4465eb26743fd67eac32bc15fec5a410b2739a1e862441a9fb5c3eb16a29d1",
+    "plugins/streetteam/.claude-plugin/marketplace.json": "6b34baba371cf0b0c135b4e9e4a38bed792328a7f04ee993be65b08bccfe6d2f",
+    "plugins/streetteam/.claude-plugin/plugin.json": "553b9cf87aa54b5f38fb1f64c406af03c322b5595f2ed5b756a5bdf86ee8bb4a",
+    "plugins/streetteam/.codex-plugin/plugin.json": "f504340afab8f92c601f4fcd64d53c7766a6e8008767eb0d71bda81d0ee093ac",
     "plugins/streetteam/.mcp.json": "d3e78f093b3f8dc0e733f6db8c68f66bf9bfddee51cb81cf6b441636a69971e5",
     "plugins/streetteam/LICENSE": "f694949b7f758a6d214c696dc09c81fdfa3161025535405a364071323b38cef6",
     "plugins/streetteam/README.md": "ee34ee204c7d2d022bd3fca5afc52c3a620efc9d0c2b67c9b510527f214c9122",
@@ -13,6 +13,6 @@
     "README.md": "ee34ee204c7d2d022bd3fca5afc52c3a620efc9d0c2b67c9b510527f214c9122",
     "LICENSE": "f694949b7f758a6d214c696dc09c81fdfa3161025535405a364071323b38cef6",
     ".agents/plugins/marketplace.json": "874ef0895f5a3dc1757cf27e1b8b9f786a36ca2e3515a52f674e15720a7a09fe",
-    ".claude-plugin/marketplace.json": "343851ed7cb24e3a8b50d3cc3dd6d7f5eb0889153a27db6e2ba1b4991149372b"
+    ".claude-plugin/marketplace.json": "0d4a58d02ca1a2bb4c27968f4ef3419ebed94ec6b2fdf140e073ddb090a9c712"
   }
 }
