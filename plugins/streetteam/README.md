@@ -1,6 +1,6 @@
 # StreetTeam
 
-**Your artists. Your next move.**
+**Your artists. Your people.**
 
 Bring your tasks, calls, leads, and artist community into ChatGPT, Claude, and Codex. This package
 uses one hosted StreetTeam service, with the same tools and workflow guidance in every assistant. It

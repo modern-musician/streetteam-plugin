@@ -13,7 +13,7 @@
 	"skills": "./skills/",
 	"interface": {
 		"displayName": "StreetTeam",
-		"shortDescription": "Your artists. Your next move.",
+		"shortDescription": "Your artists. Your people.",
 		"longDescription": "Bring StreetTeam into Codex. Plan your week, reconnect with leads, review calls, and manage your artist community with the permissions you choose. One hosted connection keeps your tools current across assistants.",
 		"developerName": "Modern Musician",
 		"category": "Productivity",
