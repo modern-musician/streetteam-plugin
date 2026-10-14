@@ -19,6 +19,7 @@
 		"category": "Productivity",
 		"capabilities": ["Read", "Write"],
 		"websiteURL": "https://streetteam.fm/docs/mcp",
+		"supportURL": "https://streetteam.fm/docs/mcp",
 		"privacyPolicyURL": "https://streetteam.fm/legal/privacy-policy",
 		"termsOfServiceURL": "https://streetteam.fm/legal/terms",
 		"defaultPrompt": [
