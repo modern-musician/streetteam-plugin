@@ -18,13 +18,15 @@ workflow guidance and the starter prompts in one step. There is nothing else to 
 /plugin install streetteam --marketplace modern-musician/streetteam-plugin
 ```
 
-That one step adds the marketplace and installs the plugin on Claude Code 2.1.275 or later. On an
-older version, add the marketplace first:
+That one step adds the marketplace and installs the plugin on Claude Code 2.1.275 or later. On
+2.1.150 through 2.1.274, add the marketplace first:
 
 ```sh
 /plugin marketplace add modern-musician/streetteam-plugin
 /plugin install streetteam@streetteam-hosted
 ```
+
+Versions before 2.1.150 refuse the plugin's listing fields; update Claude Code first (`claude update`).
 
 Start a new session and sign in to StreetTeam when Claude Code asks (or run `/mcp`).
 

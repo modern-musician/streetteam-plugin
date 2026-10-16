@@ -1,6 +1,7 @@
 {
 	"name": "streetteam",
-	"version": "0.4.1",
+	"displayName": "StreetTeam",
+	"version": "0.4.2",
 	"description": "Securely work with the StreetTeam artists and communities you are authorized to manage.",
 	"author": {
 		"name": "Modern Musician",
@@ -8,6 +9,11 @@
 		"url": "https://streetteam.fm/"
 	},
 	"homepage": "https://streetteam.fm/docs/mcp",
+	"documentationUrl": "https://streetteam.fm/docs/mcp",
+	"supportUrl": "https://streetteam.fm/docs/mcp",
+	"privacyPolicyUrl": "https://streetteam.fm/legal/privacy-policy",
+	"termsOfServiceUrl": "https://streetteam.fm/legal/terms",
+	"repository": "https://github.com/modern-musician/streetteam-plugin",
 	"license": "Proprietary",
 	"keywords": [
 		"streetteam",

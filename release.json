@@ -1,18 +1,18 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "files": {
-    "plugins/streetteam/.claude-plugin/marketplace.json": "6b34baba371cf0b0c135b4e9e4a38bed792328a7f04ee993be65b08bccfe6d2f",
-    "plugins/streetteam/.claude-plugin/plugin.json": "553b9cf87aa54b5f38fb1f64c406af03c322b5595f2ed5b756a5bdf86ee8bb4a",
-    "plugins/streetteam/.codex-plugin/plugin.json": "f504340afab8f92c601f4fcd64d53c7766a6e8008767eb0d71bda81d0ee093ac",
+    "plugins/streetteam/.claude-plugin/marketplace.json": "a75f338ab0d4192a882f3c661111d0c9cecdd804a2e9bd02f5dc6439d5aabaa7",
+    "plugins/streetteam/.claude-plugin/plugin.json": "6f23ad49f11858cff4150125628dfd6b483302344e46b1f682151298a395d7ab",
+    "plugins/streetteam/.codex-plugin/plugin.json": "7ed421027cb4f9cc305aa7e71e5c2a9d6ffb2bf0515a78ab9de9acce8197273a",
     "plugins/streetteam/.mcp.json": "d3e78f093b3f8dc0e733f6db8c68f66bf9bfddee51cb81cf6b441636a69971e5",
     "plugins/streetteam/LICENSE": "f694949b7f758a6d214c696dc09c81fdfa3161025535405a364071323b38cef6",
-    "plugins/streetteam/README.md": "ee34ee204c7d2d022bd3fca5afc52c3a620efc9d0c2b67c9b510527f214c9122",
+    "plugins/streetteam/README.md": "893e57c8d7d3c9c5bdb8fd60758755b015680c73a81b2964418fc79384460f9c",
     "plugins/streetteam/SECURITY.md": "ccb0dea4f436cf6ef3d1ec4075d094939728910f9d41d1fd5493c808f9b2b43b",
     "plugins/streetteam/assets/icon.png": "a19bd8373b5e3468347130b9285935bb56233a33330a4da531b0c59e62d971d1",
-    "plugins/streetteam/skills/streetteam/SKILL.md": "17bffb8e7861d58110d612e7e45bb0b0cbbd7e60fabefc0c3ac0f677d7d1839c",
-    "README.md": "ee34ee204c7d2d022bd3fca5afc52c3a620efc9d0c2b67c9b510527f214c9122",
+    "plugins/streetteam/skills/streetteam/SKILL.md": "4ac861f7ac264bf18d1c68d48c9ac7585c7572c4c10acf59ea9a9bd1e7ec6b27",
+    "README.md": "893e57c8d7d3c9c5bdb8fd60758755b015680c73a81b2964418fc79384460f9c",
     "LICENSE": "f694949b7f758a6d214c696dc09c81fdfa3161025535405a364071323b38cef6",
     ".agents/plugins/marketplace.json": "874ef0895f5a3dc1757cf27e1b8b9f786a36ca2e3515a52f674e15720a7a09fe",
-    ".claude-plugin/marketplace.json": "0d4a58d02ca1a2bb4c27968f4ef3419ebed94ec6b2fdf140e073ddb090a9c712"
+    ".claude-plugin/marketplace.json": "c54482e168711547bf52a5b528d70d278eff5997dc3f5fb3ef72793e71116e95"
   }
 }
